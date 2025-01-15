@@ -62,5 +62,3 @@ bash test-time-eva.sh
 
 ## External data link
 + ImageNet-C [Download](https://zenodo.org/record/2235448#.Yj2RO_co_mF)
-
-For questions regarding the code, please contact jixiang.lei@student.tugraz.at.
